@@ -81,9 +81,7 @@ npx expo start
 ## 👥 Team
 
 - 👩‍💻 Safae Bouchouicha  
-- 👩‍💻 Your Teammate Name  
-
-👨‍🏫 Supervised by: Your Professor Name  
+- 👩‍💻 Fouzia Ait Abdenbi 
 
 ---
 
