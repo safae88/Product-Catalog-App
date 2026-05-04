@@ -10,11 +10,11 @@ The app allows users to browse products from an online API and save their favori
 
 ## ✨ Features
 
-- 📦 Fetch products from an API (FakeStore API)
-- 🖼️ Display products with image, title, and price
-- 💾 Save products locally using SQLite
-- 📶 Offline access to saved products
-- ❌ Delete saved products
+-  Fetch products from an API (FakeStore API)
+-  Display products with image, title, and price
+-  Save products locally using SQLite
+-  Offline access to saved products
+-  Delete saved products
 
 ---
 
