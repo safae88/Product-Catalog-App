@@ -1,5 +1,7 @@
 # 📱 Product Catalog App (React Native)
 
+https://github.com/user-attachments/assets/03f28750-c803-4b54-bfd2-ddb2540c1e1e
+
 ## 🚀 Description
 This is a mobile application built using React Native.  
 The app allows users to browse products from an online API and save their favorite items locally using SQLite.
