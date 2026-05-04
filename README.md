@@ -62,13 +62,6 @@ npm install
 ```
 npx expo start
 ```
-
----
-
-## 📸 Demo
-
-👉 Watch the demo video on my LinkedIn post
-
 ---
 
 ## 🎯 What I Learned
@@ -89,4 +82,7 @@ npx expo start
 
 ## 📬 Contact
 
+www.linkedin.com/in/safae-bouchouicha-1a31a23a7
+
 Feel free to connect with me on LinkedIn!
+
